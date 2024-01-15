@@ -22,3 +22,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+backend/backvenv/
+backend/node_modules/
+backend/package-lock.json
+backend/package.json
+frontend/frontvenv/
+frontend/node_modules/
+frontend/package-lock.json
+frontend/package.json
